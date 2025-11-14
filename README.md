@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá, sou Isaías Eloy (Silea-Dev) 👋
 
-<!--
-**Silea-Dev/Silea-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou construindo minha carreira em uma interseção única: o rigor analítico e a capacidade de decompor problemas complexos da **Licenciatura em Matemática (UFRN)**, combinados com a implementação de sistemas robustos da **Engenharia de Software (UNINTER)**.
 
-Here are some ideas to get you started:
+Meu foco principal é aplicar essa base dupla no **desenvolvimento Backend**, utilizando minha base matemática para otimizar a performance e a lógica de sistemas complexos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco uma oportunidade de **Estágio/Trainee** onde possa usar essa visão analítica para construir software eficiente e escalável.
+
+---
+
+### 🛠️ Meu Arsenal Tecnológico
+
+* **Linguagens:** `Python`, `C++`, `SQL`
+* **Backend:** `[Adicionar frameworks, ex: Flask, Django]`, `APIs REST`, `Bancos de Dados`
+* **Diferencial:** `Algoritmos`, `Estrutura de Dados`, `Álgebra Linear`, `Cálculo`
+
+---
+
+### 📫 Como me encontrar:
+* **LinkedIn:** [https://www.linkedin.com/in/seu-perfil-aqui/](https://www.linkedin.com/in/seu-perfil-aqui/)

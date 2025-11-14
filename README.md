@@ -11,7 +11,7 @@ Busco uma oportunidade de **Estágio/Trainee** onde possa usar essa visão anal�
 ### 🛠️ Meu Arsenal Tecnológico
 
 * **Linguagens:** `Python`, `C++`, `SQL`
-* **Backend:** `[Adicionar frameworks, ex: Flask, Django]`, `APIs REST`, `Bancos de Dados`
+* **Backend:** `Flask`, `APIs REST`, `Bancos de Dados`
 * **Diferencial:** `Algoritmos`, `Estrutura de Dados`, `Álgebra Linear`, `Cálculo`
 
 ---

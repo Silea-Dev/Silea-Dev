@@ -17,4 +17,4 @@ Busco uma oportunidade de **Estágio/Trainee** onde possa usar essa visão anal�
 ---
 
 ### 📫 Como me encontrar:
-* **LinkedIn:** [www.linkedin.com/in/isaias-eloy](www.linkedin.com/in/isaias-eloy)
+* **LinkedIn:** www.linkedin.com/in/isaias-eloy

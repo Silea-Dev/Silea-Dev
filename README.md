@@ -1,4 +1,4 @@
-### Olá, sou Isaías Eloy (Silea-Dev) 👋
+### Olá, sou Isaías Eloy 👋
 
 Estou construindo minha carreira em uma interseção única: o rigor analítico e a capacidade de decompor problemas complexos da **Licenciatura em Matemática (UFRN)**, combinados com a implementação de sistemas robustos da **Engenharia de Software (UNINTER)**.
 

@@ -19,8 +19,6 @@ Busco uma oportunidade de **Estágio/Trainee** onde possa usar essa visão anal�
 
 ### 🚀 Projetos em Destaque
 
-* **[Mini-GeoGebra](https://github.com/Silea-Dev/mini-geogebra)**
-  Refatoração de uma calculadora gráfica de terminal, migrando de paradigma procedural para **Orientação a Objetos (POO)** para maior escalabilidade.
 
 * **[Crivo de Eratóstenes](https://github.com/Silea-Dev/crivo_eratostenes)**
   Implementação de algoritmo matemático de alta performance utilizando **NumPy** e vetorização para processamento de dados.

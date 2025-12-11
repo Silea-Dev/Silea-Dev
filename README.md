@@ -12,7 +12,7 @@ Busco uma oportunidade de **Estágio/Trainee** onde possa usar essa visão anal�
 
 * **Linguagens:** `Python`, `C++`, `SQL`
 * **Backend:** `Flask`, `Bancos de Dados`
-* **🌱 Estudando:** `Java`, `Arquitetura de Software`, `Design Patterns` (POO Avançada)
+* **🌱 Estudando:** `Java`, `Arquitetura de Software`
 * **Diferencial:** `Algoritmos`, `Álgebra Linear`, `Cálculo`, `Otimização de Performance`
 
 ---
